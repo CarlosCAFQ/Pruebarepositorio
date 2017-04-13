@@ -16,6 +16,7 @@ namespace PruebaGit
         {
             InitializeComponent();
             // Hola
+            // Segundo comentario
         }
     }
 }
